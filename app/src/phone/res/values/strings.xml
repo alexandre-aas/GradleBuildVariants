@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GradleBuildVariants</string>
+    <string name="variant_text">Essa é a compilação do smartphone</string>
+</resources>
